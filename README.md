@@ -2,10 +2,13 @@
 
 Sistema desktop de cadastro e pesquisa de músicas, álbuns e artistas, desenvolvido em **Java** com interface **Java Swing**, banco de dados relacional e padrão **MVC**.
 
-> **Disciplina:** [Disciplina]
-> **Professor(a):** [Nome do professor]
-> **Turma:** [Turma] | **Semestre:** [Semestre]
-> **Integrantes:** [Nome 1], [Nome 2], [Nome 3]
+> **Disciplina:** Programação Orientada a Objetos II
+
+> **Professor(a):** Leanderson
+
+> **Turma:** 144-4CN | **Semestre:** 4º Semestre
+
+> **Integrantes:** Arthur de Lima Barbosa, Bernardo Henrique Budal, Igor Otávio Duarte, Julia Paz de Lima Santos e Yasmin Gabrielli Venturi
 
 ---
 
@@ -57,8 +60,19 @@ src/
 ## Etapas
 
 - [x] Definição do tema
-- [ ] Diagrama de classes
-- [ ] Diagrama MER
+- [x] Diagrama de Classes
+- [x] Diagrama MER
+- [x] Protótipos de Telas
 - [ ] Criação do banco de dados
 - [ ] Implementação (model, dao, view e controller)
 - [ ] Testes e entrega final
+
+## Diagramas
+
+**Diagrama de Classes**
+
+
+**Diagrama MER**
+
+
+## Protótipos
