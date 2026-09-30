@@ -71,8 +71,11 @@ src/
 
 **Diagrama de Classes**
 
+<img src="docs/diagrama_classes.jpeg" width="60%" alt="Diagrama de Classes">
+
 
 **Diagrama MER**
 
+<img src="docs/diagrama_MER.jpeg" width="50%" alt="Diagrama MER">
 
 ## Protótipos
