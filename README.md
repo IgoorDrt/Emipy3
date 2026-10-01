@@ -82,4 +82,21 @@ src/
 
 **Tela de Login**
 
-<img src="docs/login.png" width="60%" alt="Diagrama MER">
+<img src="docs/login.png" width="60%" alt="Tela de Login">
+
+**Tela de Cadastro**
+
+<img src="docs/cadastro.png" width="60%" alt="Tela de Cadastro">
+
+**Tela Inicial**
+
+<img src="docs/Inicial.png" width="60%" alt="Tela Inicial">
+
+**Tela de Editar Perfil**
+
+<img src="docs/editar_perfil.png" width="60%" alt="Tela de Editar Perfil">
+
+**Tela de Pesquisa**
+
+<img src="docs/pesquisa.png" width="60%" alt="Tela de Pesquisa">
+
