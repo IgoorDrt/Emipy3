@@ -79,3 +79,7 @@ src/
 <img src="docs/diagrama_MER.jpeg" width="50%" alt="Diagrama MER">
 
 ## Protótipos
+
+**Tela de Login**
+
+<img src="docs/login.png" width="60%" alt="Diagrama MER">
