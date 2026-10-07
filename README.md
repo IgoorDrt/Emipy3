@@ -94,6 +94,11 @@ src/
 
 **Tela de Editar Perfil**
 
+<img src="docs/perfil.png" width="60%" alt="Perfil">
+
+**Tela de Artista**
+
+<img src="docs/artista.png" width="60%" alt="Artista">
 <img src="docs/editar_perfil.png" width="60%" alt="Tela de Editar Perfil">
 
 **Tela de Pesquisa**
