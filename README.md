@@ -63,9 +63,9 @@ src/
 - [x] Diagrama de Classes
 - [x] Diagrama MER
 - [x] Protótipos de Telas
-- [ ] Criação do banco de dados
-- [ ] Implementação (model, dao, view e controller)
-- [ ] Testes e entrega final
+- [x] Criação do banco de dados
+- [x] Implementação (model, dao, view e controller)
+- [x] Testes e entrega final
 
 ## Diagramas
 
